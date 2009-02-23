@@ -1,0 +1,39 @@
+Setting term type to NONE...
+
+> l
+The History of Grimhaven
+  This room is dedicated to the grand history of Grimhaven.  There are murals
+painted on all four walls and the ceiling.  One painting shows a great eruption
+from a volcano to create the land Grimhaven now sits on.  Another picture shows
+a great battle of Good and Evil forces until all parties died, thus leaving
+Grimhaven neutral to all.
+This area is brightly lit.
+You see an exit south.
+A tour guide is here, filled with information.
+
+> s
+Museum Entrance
+  This is the entrance to the Grimhaven Museum.  To the north lies the display
+to show the history of Grimhaven.  To the south is the room dedicated to the
+history of Imperia.
+This area is brightly lit.
+You can see exits to the north, east, and south.
+A tour guide is here, filled with information.
+
+> s
+Hall of Imperia
+  This grand room is the history of Imperia.  It shows the older gods creating
+a place in the sky called Imperia for the gods to live and play.  There are
+pictures of all the gods who followed these founders who have expanded The
+World and Imperia to its present form.  Some of these gods still grace The
+World some have ventured on.  It is the goal of all mortals to be with the
+gods.
+This area is brightly lit.
+You see an exit north.
+
+> #  3 #Hardcoded ^C quit - ok!
+#  3 #Hardcoded ^C quit - ok!
+#  3 #Quitting now..
+#  3 #Quitting now..
+-trycode.bat finished-
+dale@sunwater:~/pl/sneezy-client-test$ 

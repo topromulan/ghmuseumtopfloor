@@ -1,0 +1,64 @@
+
+
+(6,5,1) Grimhaven Now
+Upstairs is dedicated to the Grimhaven of today. Tables, pictures, and displays around the floor show the ways the town has changed.
+
+> l table
+On the table sits a small scale model of the new Grimhaven Casino.
+
+> l casino
+The casino is a handsome construction, if a slightly phallic thing to tower above a town.
+
+
+> l picture
+There is a picture of King Leroy and the Princess outside the old Grimhaven Casino on West Main Street, a long time ago before the new casino was erected. The picture is rendered with a curious medium.
+
+> l medium
+
+The picture wasn't painted. Strange, a magic user transferred the image onto the canvas with his mana, and the mark of the magic user is on the corner of the picture.
+
+> l mark
+(c) 1050 P.S. Slugblame
+
+
+> l display
+The display shows some paintings of workers remodeling the old Twilight distruct. You learn by studying the display that before it was cleaned up, there were a lot of shady characters and the streets weren't nice and clean like today. A commemorative fountain was placed in the distruct to encourage citizens to try out businesses off the main Market district.
+
+(6,4,1) Mage Academy Special Exhibit
+The platform of the second floor ends facing west into the Hall of Imperia. The local magic users group have set up a special exhibit, or you can sit on a bench to gaze into the hall and dream of becoming immortal.
+
+>l exhibit
+Mostly along the east wall there are explanations of how this or that magic spell is performed, and how various potions get mixed. One display in particular catches your eye.
+
+>l display
+Sorceror's Globe was first performed by Polymermablot, who was once a peer but later became a great rival of Fertumann. From his original reports to our scholarly journals, Polymermablot inquired for opinions why the gust spell was quite less effective against pesky air daemons that were becomming a common infestation over his forest. At the time, especially during the freezing cold, this was a nuisance to have to use gush to vanquish them. He later submitted his very masterful workwhich is now today in common practice, and only in disfavor of today's very advanced magic users who sometimes prefer plasma shields or stone skins.
+
+What Polymermablot discovered was that the air beneath an air daemon's tail, behind and between his legs, contained actually harder air molecules than the surrounding air. He later discovered that the gust spell was often more effective when the air daemons were approaching, more so than when they were flying away. Today air daemons are harvested in captivity from a controlled infestation in a secret land, and many adventurers assisted by even our most apprentice magic users find they make a handy shield.
+
+Displayed in this case is an example air daemon's tail, the same kind used by our most outstanding wizards of Sorcery.
+
+> l case
+You peek through a case..
+Inside a display case.
+An air daemons tail is sitting here.
+
+(6.3,1) Hall of Imperia 
+This grand room is the history of Imperia.  It shows the older gods creating a place in the sky called Imperia for the gods to live and play.  There are pictures of all the gods who followed these founders who have expanded The World and Imperia to its present form.  Some of these gods still grace The World some have ventured on.  It is the goal of all mortals to be with the gods.
+
+> l picture
+Among the variously ravaging and symmetrical profiles and busts of those immortals documented by the museum you notice a tiny blemish.
+
+> l blemish
+A closer inspection yields that the blemish is some crude artwork scratched with a sharp instrument surrounded with tiny stains.
+
+> l artwork
+It looks like an elven ranger and a human cleric being attacked by a buffalo out in the Badlands northwest of the Logrus.
+
+> l stains
+The stains look almost like poison, as if the large sharp instrument used to scratch this artwork had been dripping with the stuff. The poison drips go upward as if air currents in the room blew it in that direction as it dried.
+
+
+
+
+
+
